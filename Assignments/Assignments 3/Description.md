@@ -1,6 +1,6 @@
 ### About Assignment 3
 ---
-<br>
+
 1.	Students are required to prepare AN ACADEMIC WRITING.
 <br>
 2.	The length of the ACADEMIC WRITING SHOULD NOT EXCEED 3 PAGES:
