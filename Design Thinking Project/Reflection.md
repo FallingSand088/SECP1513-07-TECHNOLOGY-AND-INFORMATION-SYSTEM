@@ -1,1 +1,5 @@
+### Reflection
+---
+Participating in this Design Thinking project has been a transformative journey, offering me a profound understanding of the iterative process required to move from empathy to a viable prototype. Beyond the technical steps, I have learned that effective implementation relies on human-centric problem solving which is a skill that is indispensable in the modern tech landscape. The Design Thinking framework is particularly valuable as it provides me with a structured methodology to approach my hobby projects and professional work with a user-first mindset. 
 
+Furthermore, the project has significantly sharpened my project management and strategic thinking skills, which are vital for navigating the competitive and rapidly evolving job market. Moving forward, I am committed to leveraging these capabilities to engage in high-impact projects that transcend technical execution. My goal is to contribute meaningfully to Malaysian society by developing technologies that solve local challenges, while simultaneously refining the interpersonal and leadership skills necessary to thrive as a collaborative professional in the global industry.
