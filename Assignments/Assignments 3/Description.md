@@ -5,7 +5,9 @@
 
 2.	The length of the ACADEMIC WRITING SHOULD NOT EXCEED 3 PAGES:
 
-&emsp; a.	Page one: This is the cover of the REPORT; it should include a proper title and a <br> &emsp; representative picture. The cover page should also include the titles for the topics covered in <br> &emsp; the REPORT and names of group member.
+&emsp; a.	Page one: This is the cover of the REPORT; it should include a proper title and a <br> 
+&emsp; representative picture. The cover page should also include the titles for the topics covered in <br> 
+&emsp; the REPORT and names of group member.
 <br>
 <br>
 &emsp; b.	Pages two and three should include: <br>
