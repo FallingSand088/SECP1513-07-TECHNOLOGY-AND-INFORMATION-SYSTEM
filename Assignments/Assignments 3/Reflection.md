@@ -1,4 +1,3 @@
 ### Reflection
 ---
-
-From this talk, I have gained new insight that just having coding skills wouldn’t be sufficient to survive the current job market. System development and project management skills are essential to remain competitive and be chosen by top employers. So moving forward my focus would be on enhancing my communication and leadership skills, learning how to develop systems according to SDLC and pursue hobby projects with a team. 
+The talk was presented was presented by Ts. Hj. Abdul Halim bin Abdul Muttalib who is an UTM alumni who graduated around 2014 to 2015. He emphasized on the process of system development and project management and the benefits of applying them into real-world software projects. From this talk, I have gained new insight that just having coding skills wouldn’t be sufficient to survive the current job market. System development and project management skills are essential to remain competitive and be chosen by top employers. So moving forward my focus would be on enhancing my communication and leadership skills, learning how to develop systems according to SDLC and pursue hobby projects with a team. 
